@@ -4,6 +4,7 @@ Neuroscience-related, associated with blog posts at https://headbirths.wordpress
 To be uploaded here, put in a neighbouring repository or left on the blog...
 
 All code in Python unless otherwise stated.
+Filenames/directories match blog name description below.
 
 Expectation Maximization algorithms (from the Bayesian brain (weights encoding means and variances) towards the Free Energy Principle, blog posts:
 * Sequential K-Means https://headbirths.wordpress.com/2020/04/06/sequential-k-means/
