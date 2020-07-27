@@ -441,8 +441,8 @@ for iE = 1:nE
 
     %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% DUMP PER ITERATION %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
     % Dumping is at the *start* of the iteration: we get to see the initialization state; 
-    % The final state should be the same as the penultimate if the number of iterations is sufficient to achieve quilibrium
-    if 0
+    % The final state should be the same as the penultimate if the number of iterations is sufficient to achieve equilibrium
+    if 1
         fprintf('Headbirths,DumpStart,%s\n' , did);
         for i=1:length(M); % [1×2 struct] % generative model
             prefix = sprintf('DEM.M(%d)', i);
