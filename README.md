@@ -25,6 +25,6 @@ Other neural network
 
 Other:
 * Monopoly game (self-playing): https://headbirths.wordpress.com/2019/12/10/monopoly-and-prosperity/
-* Using Scipy optimization to generate coefficients for efficient Gaussian (Normal) distribution function.
+* Approximating Normal distribution: Using Scipy optimization to generate coefficients for efficient Gaussian (Normal) distribution function https://headbirths.wordpress.com/2020/03/23/approximating-normal/
 
 
