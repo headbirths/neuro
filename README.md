@@ -11,9 +11,6 @@ Expectation Maximization algorithms (from the Bayesian brain (weights encoding m
 * Forgetful Gaussian Mixture Models https://headbirths.wordpress.com/2020/04/16/forgetful-gaussian-mixture-models/
 * DEM: Dynamic Expectation Maximization, within SPM12 software (Wellcome Centre for Human Neuroimaging, UCL Queen Square Institute of Neurology), https://headbirths.wordpress.com/2020/06/09/using-spm-for-dynamic-causal-modelling-of-covid-19/ (Matlab as well as Python)
 
-Separate towards the Free Energy Principle of the brain, blog posts:
-* 'Free Energy and Ising Models' (upcoming)
-
 Spiking Neural Networks:
 * https://headbirths.wordpress.com/2019/02/23/spiky-thoughts/
 * https://headbirths.wordpress.com/2019/03/10/spiky-logic/
@@ -27,4 +24,6 @@ Other:
 * Monopoly game (self-playing): https://headbirths.wordpress.com/2019/12/10/monopoly-and-prosperity/
 * Approximating Normal distribution: Using Scipy optimization to generate coefficients for efficient Gaussian (Normal) distribution function https://headbirths.wordpress.com/2020/03/23/approximating-normal/
 
-
+Book:
+* 'Free Energy and Ising Models' (upcoming)
+* Lotka-Volterra predator-prey dynamical system: Mutation of an 'F24' into an 'F2' predator allows encroachment from region 'A' into region 'B'. Includes phase plots.
